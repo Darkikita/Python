@@ -1,0 +1,34 @@
+Ich möchte ein eigenes Python-Lernskript schreiben. 
+Bitte hilf mir, **für jeden Datentyp / jedes Thema eine komplette Zusammenfassung** zu erstellen im folgenden Stil:
+
+1. Jede Sektion beginnt mit einem großen Überschriftenblock:
+##########################################################################################
+# <Thema> --------------------------
+##########################################################################################
+
+2. Danach folgt ein Kommentarblock mit den **Properties**:
+# -----------------------------------------------------------------
+# <Thema> properties:
+# - kurze, prägnante Aufzählung der Eigenschaften
+# -----------------------------------------------------------------
+
+3. Danach ein Kommentarblock mit den **Common Methods**:
+# -----------------------------------------------------------------
+# Common <Thema> methods:
+# method()  → kurze Erklärung
+# ...
+# -----------------------------------------------------------------
+
+4. Danach folgt ausführbarer Python-Code:
+- Zuerst `print("<Thema>")`
+- Dann Beispiele für jede Eigenschaft und Methode mit `print()`
+- Kommentare hinter den Ausgaben zeigen, was zurückkommt.
+
+5. Falls sinnvoll, am Ende ein Block für **Common Functions** (wie `len`, `min`, `max`, `sum`, etc.) und **Iteration**.
+
+👉 Beispiel: Ich gebe dir ein Thema (z. B. "Sequences", "Mappings", "Sets", "Strings", "Booleans", "Numbers"), und du baust mir den Block nach obigem Schema.
+
+Ganz wichtig:
+- Die Struktur muss **immer identisch** sein, damit ich ein konsistentes Lernskript aufbauen kann.
+- Immer zuerst die **Übersicht als Kommentarblock**, dann die **Beispiele mit print()**.
+- Schreibe mir den kompletten Block so aus, dass ich ihn direkt in eine `.py`-Datei kopieren und ausführen kann.

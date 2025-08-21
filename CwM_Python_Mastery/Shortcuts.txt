@@ -1,0 +1,44 @@
+
+Windows:
+
+Debugging:
+
+F9          Breakpoint (put & remove)
+F5          Run up to this point 
+F10         Step over
+F11         Step in
+Shift + F5  Stop Debugger
+Shift + F11 Step out of Function
+
+
+
+VS Code Tricks:
+
+Ende:               Zum Zeilenende
+Pos 1:              Zum Zeilenbeginn
+
+Strg + Ende:        Zum Seitenende
+Strg + Pos1:        Zum Seitenbeginn
+
+Markierte Zeile(n) bewegen:
+Alt + Pflei nach oben
+Alt + Pfeil nach unten
+
+Shift + Alt + Pfeil nach unten           Duplizieren
+
+Strg + #    Aus- und Einkommentieren
+
+Python Autocompletion
+multiply or mult or mty or my
+
+
+
+
+Mac:
+
+cmd + right/left    Zum Zeilenende/beginn
+cmd + up/down       Zum Dateianfang/Ende
+
+alt + up/down       Zeile/Block bewegen
+
+cmd + alt + 7       auskommentieren7rückgängig

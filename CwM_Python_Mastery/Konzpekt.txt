@@ -1,0 +1,37 @@
+Notizen: 
+Referenzen auf Funktion in Methoden übergeben (4.2)
+
+
+-------------------------------------------------------------------------------------
+Print:
+
+print("Loop", number)
+print(f"Loop: {number}")
+
+-------------------------------------------------------------------------------------
+String:
+
+Man kann Strings multiplizieren. 
+for number in range(3):
+    print((number + 1) * ".")
+
+
+-------------------------------------------------------------------------------------
+Range:
+
+range(start, stop, step)
+
+
+-------------------------------------------------------------------------------------
+lower():
+
+command = ""
+quit_command = "QUIT"
+while command != quit_command.lower():
+    command = input(">").lower()
+    print("ECHO", command)
+
+
+
+
+
